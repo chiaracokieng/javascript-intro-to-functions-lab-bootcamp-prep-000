@@ -1,1 +1,1 @@
-string = 'Hi Chiara'
+var string = 'Hi Chiara'
